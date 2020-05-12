@@ -2,22 +2,22 @@
 class Constants(object):
     """Constants holder class that stores the bulk of the fixed strings used in the library."""
 
-    IG_SIG_KEY = '19ce5f445dbfd9d29c59dc2a78c616a7fc090a8e018b9267bc4240a30244c53b'
-    IG_CAPABILITIES = '3brTvw=='
+    IG_SIG_KEY = '46024e8f31e295869a0e861eaed42cb1dd8454b55232d85f6c6764365079374b'
+    IG_CAPABILITIES = '3brTvwM=='
     SIG_KEY_VERSION = '4'
-    APP_VERSION = '76.0.0.15.395'
+    APP_VERSION = '136.0.0.34.124'
     APPLICATION_ID = '567067343352427'
     FB_HTTP_ENGINE = 'Liger'
 
-    ANDROID_VERSION = 24
-    ANDROID_RELEASE = '7.0'
-    PHONE_MANUFACTURER = 'samsung'
-    PHONE_DEVICE = 'SM-G930F'
-    PHONE_MODEL = 'herolte'
-    PHONE_DPI = '640dpi'
-    PHONE_RESOLUTION = '1440x2560'
-    PHONE_CHIPSET = 'samsungexynos8890'
-    VERSION_CODE = '138226743'
+    ANDROID_VERSION = 29
+    ANDROID_RELEASE = '10.0'
+    PHONE_MANUFACTURER = 'Xiaomi/xiaomi'
+    PHONE_DEVICE = 'Redmi Note 7'
+    PHONE_MODEL = 'lavender'
+    PHONE_DPI = '461dpi'
+    PHONE_RESOLUTION = '1080x2131'
+    PHONE_CHIPSET = 'qcom'
+    VERSION_CODE = '208061712'
 
     USER_AGENT_FORMAT = \
         'Instagram {app_version} Android ({android_version:d}/{android_release}; ' \
